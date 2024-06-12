@@ -1,0 +1,13 @@
+body {
+    background-color: rgb(99, 96, 96);
+}
+
+#ripDoge {
+    font-size: large;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: rgb(100,22,10);
+}
+
+.img_opacity {
+    opacity: 0.4;
+}
